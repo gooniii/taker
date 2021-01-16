@@ -12,6 +12,10 @@ body{
     align-items: center;
 }
 
+.img-size{
+    width: 100%;
+}
+
 .font-size5 {
     font-size: 5rem;
 }
@@ -59,10 +63,6 @@ body{
     .margin-center{
         margin: auto;
         width: 90%;
-    }
-
-    .img{
-        width: 0%;
     }
 
     h2{
