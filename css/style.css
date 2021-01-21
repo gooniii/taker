@@ -44,7 +44,7 @@ a:visited {
     text-align: center;
 }
 
-.color-white {
+.white-color {
     color: white;
 }
 
@@ -114,6 +114,11 @@ a:visited {
 .card {
     border: 1px solid #5d5d5d;
     box-shadow: 3px 4px 3px 4px #5d5d5d;
+}
+
+
+.footer {
+    padding: 10px;
 }
 
 .intro {
