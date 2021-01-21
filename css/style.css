@@ -6,6 +6,20 @@ body {
     background: black;
 }
 
+a {
+    margin-right: 10px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #930cd1;
+}
+
+a:visited {
+    color: #930cd1;
+    text-decoration: none;
+}
+
 .img {
     display: flex;
     justify-content: center;
@@ -151,6 +165,10 @@ body {
     }
 
     p {
+        font-size: 12px;
+    }
+
+    a {
         font-size: 12px;
     }
 
