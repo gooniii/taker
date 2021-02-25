@@ -142,10 +142,6 @@ a:visited {
     font-size: 1rem;
 }
 
-.intro-font-size {
-    font-size:30px;
-}
-
 .intro-img {
     width: 16%;
 }
@@ -194,7 +190,7 @@ a:visited {
     }
 
     .text {
-        font-size: 3rem;
+        font-size: 2rem;
     }
 
     .intro-img {
