@@ -28,8 +28,12 @@ a:visited {
     background-size: cover;
 }
 
-.font-style {
+.font-style-en {
     font-family: 'Gugi', cursive;
+}
+
+.font-style-ko {
+    font-family: 'Do Hyeon', sans-serif;
 }
 
 .img-size {
@@ -116,7 +120,6 @@ a:visited {
     box-shadow: 3px 4px 3px 4px #5d5d5d;
 }
 
-
 .footer {
     padding: 10px;
 }
@@ -137,6 +140,15 @@ a:visited {
 .intro-text {
     color: #fff;
     font-size: 2rem;
+}
+
+.intro-img {
+    width: 16%;
+}
+
+.sign-img {
+    width: 7%;
+    margin-left: 46%;
 }
 
 .slider {
@@ -180,4 +192,14 @@ a:visited {
     .text {
         font-size: 3rem;
     }
+
+    .intro-img {
+        width: 40%;
+    }
+    
+    .sign-img {
+        width: 19%;
+        margin-left: 37%;
+    }
+    
 }
